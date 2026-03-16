@@ -1,0 +1,2 @@
+Para desplegar se tienen que completar todas las pruebas correspondientes a la Issue, las variables de entorno se mantendran en un 
+archivo .env que tiene todas las variables a utilizar ( api keys, websites etc)
